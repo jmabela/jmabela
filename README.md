@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @jmabela
-- 👀 I’m interested in plants, traveling and music shows
-- 🌱 I’m currently learning how to code in Phyton! 
-- 💞️ I’m looking to collaborate on people who has any knowledge in coding.
+- 🌱 I’m a full stack Software Engineer! 
+- 👀 I’m interested in coding, plants, traveling and music shows
+- 💞️ I’m looking to collaborate with people who want to build travel or shows platforms - maybe one day we can defeat Ticket Master!
 - 📫 How to reach me josselyn53@gmail.com
 
 <!---
